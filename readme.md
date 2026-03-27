@@ -1,1 +1,1 @@
-LeetCode accout: https://leetcode.com/u/LingkonDash/
+LeetCode: https://leetcode.com/u/LingkonDash/
